@@ -90,6 +90,10 @@ Before you begin, ensure you have the following installed:
 - **📄 pdf2image:** For converting PDF files to images.
 - **🖼️ Pillow (PIL):** For handling image processing in Python.
 
+## 🤝 Contributor
+-Kunal upadhyay - Developer
+-Sneha Kundu - Developer
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
